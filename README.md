@@ -1,5 +1,5 @@
 # Udacity_Write_Data_Science_Post
-The data from Seattle and Boston AirBNB homes can be used to understand how much AirBNB homes are earning in certain time frames and areas. You can compare rates between the two cities, or try to understand if there is anything about the properties that helps you predict price.
+Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Boston, MA.
 
 1. Libraries
   import numpy as np
@@ -18,5 +18,10 @@ Key Questions:
 - The correlation between price and reviews
 
 3. The files in the repository with a small description of each
-4. A summary of the results of the analysis
-5. Necessary acknowledgments
+There are 3 files in data.rar folder
+- calendar.csv: including listing id and the price and availability for that day
+- listings.csv: including full descriptions and average review score
+- reviews.csv: including unique id for each reviewer and detailed comments
+
+4. Acknowledgments
+http://insideairbnb.com/get-the-data.html
